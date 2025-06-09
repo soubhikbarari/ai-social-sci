@@ -13,3 +13,21 @@ Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber
 
 von der Heyde, L., Haensch, A. C., & Wenz, A. (2024). Vox populi, vox ai? using language models to estimate german public opinion. arXiv preprint arXiv:2407.08563.
 - Preprint: https://arxiv.org/abs/2407.08563
+
+https://arxiv.org/abs/2505.23836
+
+https://arxiv.org/abs/2409.14202
+
+https://arxiv.org/abs/2506.00856
+
+https://arxiv.org/abs/2402.02636
+
+https://arxiv.org/abs/2311.08605
+
+https://www.nber.org/papers/w33777
+
+https://arxiv.org/abs/2402.01656
+
+https://www.turing.ac.uk/news/publications/mapping-potential-generative-ai-and-public-sector-work-using-time-use-data
+
+https://psychometrics.ai/
