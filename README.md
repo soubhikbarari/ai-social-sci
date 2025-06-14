@@ -31,3 +31,5 @@ https://arxiv.org/abs/2402.01656
 https://www.turing.ac.uk/news/publications/mapping-potential-generative-ai-and-public-sector-work-using-time-use-data
 
 https://psychometrics.ai/
+
+https://www.pnas.org/doi/10.1073/pnas.2501660122
