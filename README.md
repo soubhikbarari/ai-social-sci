@@ -33,3 +33,27 @@ https://www.turing.ac.uk/news/publications/mapping-potential-generative-ai-and-p
 https://psychometrics.ai/
 
 https://www.pnas.org/doi/10.1073/pnas.2501660122
+
+https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5001645
+
+https://arxiv.org/abs/2506.00794
+
+https://www.cambridge.org/core/journals/political-analysis/article/synthetic-replacements-for-human-survey-data-the-perils-of-large-language-models/B92267DC26195C7F36E63EA04A47D2FE
+
+Generative Agent Simulations of 1,000 People:
+https://arxiv.org/abs/2411.10109
+
+LLMs generate structurally realistic social networks but overestimate political homophily:
+https://arxiv.org/abs/2408.16629
+
+ChatBench: From Static Benchmarks to Human-AI Evaluation:
+https://arxiv.org/abs/2504.07114
+
+Language Model Fine-Tuning on Scaled Survey Data for Predicting Distributions of Public Opinions:
+https://arxiv.org/abs/2502.16761
+
+Bias in Large Language Models: Origin, Evaluation, and Mitigation:
+https://arxiv.org/abs/2411.10915
+
+Bias and Fairness in Large Language Models: A Survey:
+https://arxiv.org/abs/2309.00770
