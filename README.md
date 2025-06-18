@@ -88,3 +88,11 @@ https://arxiv.org/pdf/2506.06576
 
 AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality
 https://www.fcsm.gov/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf
+
+Ferrara E (2024). The Butterfly Effect in artificial intelligence systems: Implications for AI bias and fairness. Machine Learning with Applications, Volume 15.
+https://www.sciencedirect.com/science/article/pii/S266682702400001X
+
+Market Research:
+- https://quantuxblog.com/synthetic-survey-data-its-not-data
+- https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
+- https://drive.google.com/file/d/16F_JZv4eHNiDMJT6BT7F6m97C2rBX8-7/view 
