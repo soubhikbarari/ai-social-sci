@@ -85,3 +85,6 @@ https://arxiv.org/abs/2410.18417
 
 Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce
 https://arxiv.org/pdf/2506.06576
+
+AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality
+https://www.fcsm.gov/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf
