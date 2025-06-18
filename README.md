@@ -82,3 +82,6 @@ https://arxiv.org/abs/2312.09203
 
 Large Language Models Reflect the Ideology of their Creators
 https://arxiv.org/abs/2410.18417
+
+Future of Work with AI Agents: Auditing Automation and Augmentation Potential across the U.S. Workforce
+https://arxiv.org/pdf/2506.06576
