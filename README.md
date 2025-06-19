@@ -95,4 +95,7 @@ https://www.sciencedirect.com/science/article/pii/S266682702400001X
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
-- https://drive.google.com/file/d/16F_JZv4eHNiDMJT6BT7F6m97C2rBX8-7/view 
+- https://drive.google.com/file/d/16F_JZv4eHNiDMJT6BT7F6m97C2rBX8-7/view
+
+Policy Briefs & Reports:
+- https://datasociety.net/wp-content/uploads/2025/03/Dispelling-Myths-of-AI-and-Efficiency-1.pdf
