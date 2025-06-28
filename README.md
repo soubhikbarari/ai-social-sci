@@ -89,6 +89,9 @@ https://arxiv.org/pdf/2506.06576
 Ferrara E (2024). The Butterfly Effect in artificial intelligence systems: Implications for AI bias and fairness. Machine Learning with Applications, Volume 15.
 https://www.sciencedirect.com/science/article/pii/S266682702400001X
 
+Potemkin Understanding in Large Language Models
+https://arxiv.org/abs/2506.21521
+
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
