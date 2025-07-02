@@ -92,6 +92,9 @@ https://www.sciencedirect.com/science/article/pii/S266682702400001X
 Potemkin Understanding in Large Language Models
 https://arxiv.org/abs/2506.21521
 
+AI-augmented government transformation: Organisational transformation and the sociotechnical implications of artificial intelligence in public administrations
+https://www.sciencedirect.com/science/article/pii/S0740624X25000498
+
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
