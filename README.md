@@ -95,6 +95,9 @@ https://arxiv.org/abs/2506.21521
 AI-augmented government transformation: Organisational transformation and the sociotechnical implications of artificial intelligence in public administrations
 https://www.sciencedirect.com/science/article/pii/S0740624X25000498
 
+The Political Effects of the AI Revolution: Micro-level Evidence
+https://osf.io/preprints/socarxiv/4xdn8_v1
+
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
