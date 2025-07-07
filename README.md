@@ -100,6 +100,9 @@ https://osf.io/preprints/socarxiv/4xdn8_v1
 
 Boelaert, J., Coavoux, S., Ollion, É., Petev, I., & Präg, P. (2025). Machine Bias. How Do Generative Language Models Answer Opinion Polls?. Sociological Methods & Research, 54(3), 1156-1196. https://doi.org/10.1177/00491241251330582 (Original work published 2025)
 
+Machine Bias. How Do Generative Language Models Answer Opinion Polls?
+https://journals.sagepub.com/doi/10.1177/00491241251330582
+
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
