@@ -107,7 +107,10 @@ A foundation model to predict and capture human cognition
 https://www.nature.com/articles/s41586-025-09215-4
 
 Emergent analogical reasoning in large language models
-https://www.nature.com/articles/s41562-023-01659-w?fromPaywallRec=false
+https://www.nature.com/articles/s41562-023-01659-w
+
+Large-scale AI language systems display an emergent ability to reason by analogy
+https://www.nature.com/articles/s41562-023-01671-0
 
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
