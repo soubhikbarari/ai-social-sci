@@ -116,10 +116,10 @@ Large Language Models and Emergence: A Complex Systems Perspective
 https://arxiv.org/pdf/2506.11135
 
 Market Research:
-- https://quantuxblog.com/synthetic-survey-data-its-not-data
-- https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
-- https://drive.google.com/file/d/16F_JZv4eHNiDMJT6BT7F6m97C2rBX8-7/view
+- Synthetic Survey Data? It's Not Data https://quantuxblog.com/synthetic-survey-data-its-not-data
+- Synthetic respondents are the homoeopathy of market research https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
+- Do LLMs simulate human attitudes about technology products? https://drive.google.com/file/d/16F_JZv4eHNiDMJT6BT7F6m97C2rBX8-7/view
 
 Policy Briefs & Reports:
-- https://datasociety.net/wp-content/uploads/2025/03/Dispelling-Myths-of-AI-and-Efficiency-1.pdf
-- https://www.fcsm.gov/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf
+- Dispelling Myths of AI and Efficiency https://datasociety.net/wp-content/uploads/2025/03/Dispelling-Myths-of-AI-and-Efficiency-1.pdf
+- AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality https://www.fcsm.gov/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf
