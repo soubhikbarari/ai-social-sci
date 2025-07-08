@@ -118,6 +118,10 @@ https://arxiv.org/pdf/2506.11135
 Could AI Leapfrog the Web? Evidence from Teachers in Sierra Leone
 https://arxiv.org/abs/2502.12397
 
+Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
+- https://arxiv.org/abs/2506.08872
+- https://www.brainonllm.com
+
 Market Research:
 - Synthetic Survey Data? It's Not Data https://quantuxblog.com/synthetic-survey-data-its-not-data
 - Synthetic respondents are the homoeopathy of market research https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
