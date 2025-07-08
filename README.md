@@ -103,6 +103,9 @@ Boelaert, J., Coavoux, S., Ollion, É., Petev, I., & Präg, P. (2025). Machine B
 Machine Bias. How Do Generative Language Models Answer Opinion Polls?
 https://journals.sagepub.com/doi/10.1177/00491241251330582
 
+A foundation model to predict and capture human cognition
+https://www.nature.com/articles/s41586-025-09215-4
+
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
