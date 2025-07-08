@@ -106,6 +106,10 @@ https://journals.sagepub.com/doi/10.1177/00491241251330582
 A foundation model to predict and capture human cognition
 https://www.nature.com/articles/s41586-025-09215-4
 
+https://www.nature.com/articles/s41562-023-01659-w?fromPaywallRec=false
+
+https://www.nature.com/articles/s41597-023-02433-3?fromPaywallRec=false
+
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
