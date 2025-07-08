@@ -115,6 +115,9 @@ https://www.nature.com/articles/s41562-023-01671-0
 Large Language Models and Emergence: A Complex Systems Perspective
 https://arxiv.org/pdf/2506.11135
 
+Could AI Leapfrog the Web? Evidence from Teachers in Sierra Leone
+https://arxiv.org/abs/2502.12397
+
 Market Research:
 - Synthetic Survey Data? It's Not Data https://quantuxblog.com/synthetic-survey-data-its-not-data
 - Synthetic respondents are the homoeopathy of market research https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
