@@ -112,6 +112,9 @@ https://www.nature.com/articles/s41562-023-01659-w
 Large-scale AI language systems display an emergent ability to reason by analogy
 https://www.nature.com/articles/s41562-023-01671-0
 
+Large Language Models and Emergence: A Complex Systems Perspective
+https://arxiv.org/pdf/2506.11135
+
 Market Research:
 - https://quantuxblog.com/synthetic-survey-data-its-not-data
 - https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
