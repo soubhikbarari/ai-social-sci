@@ -122,6 +122,12 @@ Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant
 - https://arxiv.org/abs/2506.08872
 - https://www.brainonllm.com
 
+GenAI-Powered Inference
+https://arxiv.org/pdf/2507.03897
+
+Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments
+https://arxiv.org/pdf/2410.00903
+
 Market Research:
 - Synthetic Survey Data? It's Not Data https://quantuxblog.com/synthetic-survey-data-its-not-data
 - Synthetic respondents are the homoeopathy of market research https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
