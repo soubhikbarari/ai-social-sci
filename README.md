@@ -128,6 +128,16 @@ https://arxiv.org/pdf/2507.03897
 Causal Representation Learning with Generative Artificial Intelligence: Application to Texts as Treatments
 https://arxiv.org/pdf/2410.00903
 
+The Impact of AI on Developer Productivity: Evidence from GitHub Copilot
+https://arxiv.org/pdf/2302.06590
+
+The Rise of AI Companions: How Human-Chatbot Relationships Influence Well-Being
+https://arxiv.org/pdf/2506.12605
+
+Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
+- https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study.pdf
+- https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/#:~:text=Core%20Result,developer%20beliefs%20and%20expert%20forecasts.
+
 Market Research:
 - Synthetic Survey Data? It's Not Data https://quantuxblog.com/synthetic-survey-data-its-not-data
 - Synthetic respondents are the homoeopathy of market research https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
@@ -136,3 +146,5 @@ Market Research:
 Policy Briefs & Reports:
 - Dispelling Myths of AI and Efficiency https://datasociety.net/wp-content/uploads/2025/03/Dispelling-Myths-of-AI-and-Efficiency-1.pdf
 - AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality https://www.fcsm.gov/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf
+- The Impact of Generative AI on Work Productivity
+ https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-work-productivity#:~:text=Together%2C%20the%20model%20and%20data,that%20they%20use%20generative%20AI.
