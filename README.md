@@ -134,6 +134,9 @@ https://arxiv.org/pdf/2302.06590
 The Rise of AI Companions: How Human-Chatbot Relationships Influence Well-Being
 https://arxiv.org/pdf/2506.12605
 
+A Framework to Assess the Persuasion Risks Large Language Model Chatbots Pose to Democratic Societies
+https://arxiv.org/pdf/2505.00036
+
 Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Productivity
 - https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study.pdf
 - https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/#:~:text=Core%20Result,developer%20beliefs%20and%20expert%20forecasts.
