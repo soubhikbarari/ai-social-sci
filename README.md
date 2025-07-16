@@ -141,6 +141,12 @@ Measuring the Impact of Early-2025 AI on Experienced Open-Source Developer Produ
 - https://metr.org/Early_2025_AI_Experienced_OS_Devs_Study.pdf
 - https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/#:~:text=Core%20Result,developer%20beliefs%20and%20expert%20forecasts.
 
+A National Synthetic Populations Dataset for the United States
+https://www.nature.com/articles/s41597-025-04380-7
+
+The Mixed Subjects Design: Treating Large Language Models as Potentially Informative Observations
+https://journals.sagepub.com/doi/10.1177/00491241251326865
+
 Market Research:
 - Synthetic Survey Data? It's Not Data https://quantuxblog.com/synthetic-survey-data-its-not-data
 - Synthetic respondents are the homoeopathy of market research https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
