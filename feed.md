@@ -1,12 +1,11 @@
 Ashwin, J., Chhabra, A., & Rao, V. (2023). Using large language models for qualitative analysis can introduce serious bias. arXiv preprint arXiv:2309.17147. 
-- Publication: https://journals.sagepub.com/doi/10.1177/00491241251338246
+https://journals.sagepub.com/doi/10.1177/00491241251338246
 
 Westwood, S. J., Grimmer, J., & Hall, A. B. (2025). Measuring Perceived Slant in Large Language Models Through User Evaluations. 
-- Preprint: https://modelslant.com/paper.pdf
+=https://modelslant.com/paper.pdf
 
 Moore, J., Grabb, D., Agnew, W., Klyman, K., Chancellor, S., Ong, D. C., & Haber, N. (2025). Expressing stigma and inappropriate responses prevents LLMs from safely replacing mental health providers. In Proceedings of the 2025 ACM Conference on Fairness, Accountability, and Transparency (FAccT '25). Association for Computing Machinery.
-- Preprint: https://arxiv.org/abs/2504.18412
-- Github: https://github.com/jlcmoore/llms-as-therapists
+https://arxiv.org/abs/2504.18412
 
 von der Heyde, L., Haensch, A. C., & Wenz, A. (2024). Vox populi, vox ai? using language models to estimate german public opinion. arXiv preprint arXiv:2407.08563.
 - Preprint: https://arxiv.org/abs/2407.08563
@@ -116,8 +115,7 @@ Could AI Leapfrog the Web? Evidence from Teachers in Sierra Leone
 https://arxiv.org/abs/2502.12397
 
 Your Brain on ChatGPT: Accumulation of Cognitive Debt when Using an AI Assistant for Essay Writing Task
-- https://arxiv.org/abs/2506.08872
-- https://www.brainonllm.com
+https://arxiv.org/abs/2506.08872
 
 GenAI-Powered Inference
 https://arxiv.org/pdf/2507.03897
@@ -147,13 +145,14 @@ https://journals.sagepub.com/doi/10.1177/00491241251326865
 The Levers of Political Persuasion with Conversational AI
 https://www.arxiv.org/abs/2507.13919
 
-Market Research:
-- Synthetic Survey Data? It's Not Data https://quantuxblog.com/synthetic-survey-data-its-not-data
-- Synthetic respondents are the homoeopathy of market research https://conjointly.com/blog/synthetic-respondents-are-the-homeopathy-of-market-research/#appendix-1-code-for-a-demonstration-of-test-retest-unreliability-of-fake-respondents
-- Do LLMs simulate human attitudes about technology products? https://drive.google.com/file/d/16F_JZv4eHNiDMJT6BT7F6m97C2rBX8-7/view
+Dispelling Myths of AI and Efficiency
+https://datasociety.net/wp-content/uploads/2025/03/Dispelling-Myths-of-AI-and-Efficiency-1.pdf
 
-Policy Briefs & Reports:
-- Dispelling Myths of AI and Efficiency https://datasociety.net/wp-content/uploads/2025/03/Dispelling-Myths-of-AI-and-Efficiency-1.pdf
-- AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality https://www.fcsm.gov/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf
-- The Impact of Generative AI on Work Productivity
- https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-work-productivity#:~:text=Together%2C%20the%20model%20and%20data,that%20they%20use%20generative%20AI.
+AI-Ready Federal Statistical Data: An Extension of Communicating Data Quality
+https://www.fcsm.gov/assets/files/docs/FCSM.25.03_AI-Ready-Extension-Data-Quality.pdf
+
+The Impact of Generative AI on Work Productivity
+https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-work-productivity#:~:text=Together%2C%20the%20model%20and%20data,that%20they%20use%20generative%20AI.
+
+Sorokovikova, A., Chizhov, P., Eremenko, I., & Yamshchikov, I. P. (2025). Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models.
+https://arxiv.org/abs/2506.10491
