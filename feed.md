@@ -157,5 +157,8 @@ https://www.stlouisfed.org/on-the-economy/2025/feb/impact-generative-ai-work-pro
 Sorokovikova, A., Chizhov, P., Eremenko, I., & Yamshchikov, I. P. (2025). Surface Fairness, Deep Bias: A Comparative Study of Bias in Language Models.
 https://arxiv.org/abs/2506.10491
 
-PERSONA VECTORS: MONITORING AND CONTROLLING CHARACTER TRAITS IN LANGUAGE MODELS
-https://arxiv.org/pdf/2507.21509
+Persona Vectors: Monitoring and Controlling Character Traits in Language Models
+https://arxiv.org/abs/2507.21509
+
+Training language models to be warm and empathetic makes them less reliable and more sycophantic
+https://arxiv.org/abs/2507.21919
